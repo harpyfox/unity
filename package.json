@@ -1,0 +1,12 @@
+{
+    "name": "com.unity.harpyfox",
+    "displayName": "Harper's Utils",
+    "version": "1.0.0",
+    "unity": "2018.1",
+    "description": "LIKE AND SUBSCRIBE",
+    "keywords": [ ],
+    "category": "Controllers",
+    "dependencies": {
+
+    }
+}
